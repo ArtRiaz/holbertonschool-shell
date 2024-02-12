@@ -1,2 +1,3 @@
 #!/bin/bash
 new line at end of file
+chmod u+x file
