@@ -1,0 +1,5 @@
+#!/bin/bash
+total 12
+-rwxr--r-- 1 root root   12 Feb 12 10:25 1-listit
+-rwxr--r-- 1 root root   24 Feb 12 09:14 README.md
+drwxr-xr-x 2 root root 4096 Feb 12 10:06 basics
