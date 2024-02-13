@@ -1,2 +1,3 @@
 #!bin/bash
 echo ls -la echo ls -la .. echo ls -la /boot 
+
